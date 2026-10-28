@@ -112,7 +112,7 @@
         <img
             src="./metadg-logo.jpeg"
             alt="Logo da MetaDG eSports"
-            class="w-16 h-[72px] object-contain"
+            class="w-18 h-[90px] object-contain
         >
     </div>
 
